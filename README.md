@@ -8,4 +8,4 @@ This application will need to meet the following requirements:
 4. Application is developed with basic security features (please specify    what parts of code are secured and how they are secured/can be exploited)
 5. Some backend functionality? 
 
-Coded in PHP and possibly add other effects to make the application look nice later
+Coded in HTML, and maybe CSS, and possibly add other effects to make the application look nice later
