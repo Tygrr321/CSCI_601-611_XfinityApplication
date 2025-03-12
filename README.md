@@ -12,3 +12,5 @@ Coded in HTML, CSS, and PHP. Python does not currently work on my system...
 
 
 hi my name is TEST
+
+This is a test too
